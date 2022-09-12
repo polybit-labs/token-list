@@ -13,7 +13,63 @@
             "name": "Uniswap",
             "symbol": "UNI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/uniswap_120x120.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/uniswap.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+            "name": "Aave",
+            "symbol": "AAVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/aave.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "name": "PancakeSwap",
+            "symbol": "CAKE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/pancakeswap.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/compound.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+            "name": "Sushi",
+            "symbol": "SUSHI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/sushiswap.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x22f3997A5DF5a80e29871FEd24fE3E85741F5E82",
+            "name": "DAO Maker",
+            "symbol": "DAO",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/dao-maker.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
+            "name": "Merit Circle",
+            "symbol": "MC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/merit-circle.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x9b17bAADf0f21F03e35249e0e59723F34994F806",
+            "name": "inSure DeFi",
+            "symbol": "insure",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/insure-defi.svg"
         }
     ],
     "version": {
