@@ -70,6 +70,38 @@
             "symbol": "insure",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/insure-defi.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x2eD9a5C8C13b93955103B9a7C167B67Ef4d568a3",
+            "name": "Mask Network",
+            "symbol": "MASK",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/mask-network.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+            "name": "Alpaca Finance",
+            "symbol": "ALPACA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/alpaca-finance.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+            "name": "Harvest Finance",
+            "symbol": "FARM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/harvest-finance.svg"
+        },
+        {
+            "chainId": 56,
+            "address": "0x20de22029ab63cf9A7Cf5fEB2b737Ca1eE4c82A6",
+            "name": "Tranchess",
+            "symbol": "CHESS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/tranchess.svg"
         }
     ],
     "version": {
