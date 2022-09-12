@@ -1,0 +1,24 @@
+{
+    "name": "Polybit Labs",
+    "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/polybit-minimal-iconmark.svg",
+    "keywords": [
+        "polybit",
+        "defi"
+    ],
+    "timestamp": "2022-09-127T04:05:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/uniswap_120x120.svg"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
