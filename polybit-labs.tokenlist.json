@@ -425,7 +425,7 @@
         },
         {
             "chainId": 56,
-            "address": "polka-city",
+            "address": "0x6Ae9701B9c423F40d54556C9a443409D79cE170a",
             "name": "Polkacity",
             "symbol": "POLC",
             "decimals": 18,
