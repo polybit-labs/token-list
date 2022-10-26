@@ -109,7 +109,7 @@
             "name": "GROWTH DeFi",
             "symbol": "XGRO",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/growth-defi.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/growth-defi.png"
         },
         {
             "chainId": 56,
@@ -117,7 +117,7 @@
             "name": "Dai",
             "symbol": "DAI",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dai.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dai.png"
         },
         {
             "chainId": 56,
@@ -125,7 +125,7 @@
             "name": "ChainLink",
             "symbol": "LINK",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/chainlink.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/chainlink.png"
         },
         {
             "chainId": 56,
@@ -133,7 +133,7 @@
             "name": "Magic Internet Money",
             "symbol": "MIM",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/magic-internet-money.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/magic-internet-money.png"
         },
         {
             "chainId": 56,
@@ -141,7 +141,7 @@
             "name": "Injective",
             "symbol": "INJ",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/injective-protocol.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/injective-protocol.png"
         },
         {
             "chainId": 56,
@@ -149,7 +149,7 @@
             "name": "Coin98",
             "symbol": "C98",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/coin98.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/coin98.png"
         },
         {
             "chainId": 56,
@@ -157,7 +157,7 @@
             "name": "Stargate Finance",
             "symbol": "STG",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/stargate-finance.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/stargate-finance.png"
         },
         {
             "chainId": 56,
@@ -165,7 +165,7 @@
             "name": "Venus",
             "symbol": "XVS",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/venus.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/venus.png"
         },
         {
             "chainId": 56,
@@ -173,7 +173,7 @@
             "name": "Seedify.fund",
             "symbol": "SFUND",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/seedify-fund.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/seedify-fund.png"
         },
         {
             "chainId": 56,
@@ -181,7 +181,7 @@
             "name": "Polkastarter",
             "symbol": "POLS",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/polkastarter.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/polkastarter.png"
         },
         {
             "chainId": 56,
@@ -189,7 +189,7 @@
             "name": "Linear",
             "symbol": "LINA",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/linear.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/linear.png"
         },
         {
             "chainId": 56,
@@ -197,7 +197,7 @@
             "name": "Beefy.Finance",
             "symbol": "BIFI",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/beefy-finance.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/beefy-finance.png"
         },
         {
             "chainId": 56,
@@ -205,7 +205,7 @@
             "name": "Vai",
             "symbol": "VAI",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/vai.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/vai.png"
         },
         {
             "chainId": 56,
@@ -213,7 +213,7 @@
             "name": "Trustswap",
             "symbol": "SWAP",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/trustswap.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/trustswap.png"
         },
         {
             "chainId": 56,
@@ -221,7 +221,7 @@
             "name": "EverRise",
             "symbol": "RISE",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/everrise.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/everrise.png"
         },
         {
             "chainId": 56,
@@ -229,7 +229,7 @@
             "name": "UniCrypt",
             "symbol": "UNCX",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/unicrypt-2.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/unicrypt-2.png"
         },
         {
             "chainId": 56,
@@ -237,7 +237,7 @@
             "name": "Rubic",
             "symbol": "RBC",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/rubic.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/rubic.png"
         },
         {
             "chainId": 56,
@@ -245,7 +245,7 @@
             "name": "WaultSwap",
             "symbol": "WEX",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/waultswap.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/waultswap.png"
         },
         {
             "chainId": 56,
@@ -253,7 +253,7 @@
             "name": "Oraichain",
             "symbol": "ORAI",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/oraichain-token.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/oraichain-token.png"
         },
         {
             "chainId": 56,
@@ -261,7 +261,7 @@
             "name": "Empire Capital",
             "symbol": "ECC",
             "decimals": 9,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/empire-capital-token.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/empire-capital-token.png"
         },
         {
             "chainId": 56,
@@ -269,7 +269,7 @@
             "name": "Ferrum Network",
             "symbol": "FRM",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/ferrum-network.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/ferrum-network.png"
         },
         {
             "chainId": 56,
@@ -277,7 +277,7 @@
             "name": "Deri Protocol",
             "symbol": "DERI",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/deri-protocol.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/deri-protocol.png"
         },
         {
             "chainId": 56,
@@ -285,7 +285,7 @@
             "name": "Belt",
             "symbol": "BELT",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/belt.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/belt.png"
         },
         {
             "chainId": 56,
@@ -293,7 +293,7 @@
             "name": "Gyro",
             "symbol": "GYRO",
             "decimals": 9,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/gyro.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/gyro.png"
         },
         {
             "chainId": 56,
@@ -301,7 +301,7 @@
             "name": "Mobox",
             "symbol": "MOBOX",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/mobox.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/mobox.png"
         },
         {
             "chainId": 56,
@@ -309,7 +309,7 @@
             "name": "My Neighbor Alice",
             "symbol": "ALICE",
             "decimals": 6,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/my-neighbor-alice.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/my-neighbor-alice.png"
         },
         {
             "chainId": 56,
@@ -317,7 +317,7 @@
             "name": "Radio Caca",
             "symbol": "RACA",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/radio-caca.png.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/radio-caca.png.png"
         },
         {
             "chainId": 56,
@@ -325,7 +325,7 @@
             "name": "FLOKI",
             "symbol": "FLOKI",
             "decimals": 9,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/floki.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/floki.png"
         },
         {
             "chainId": 56,
@@ -333,7 +333,7 @@
             "name": "Adshares",
             "symbol": "ADS",
             "decimals": 11,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/adshares.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/adshares.png"
         },
         {
             "chainId": 56,
@@ -341,7 +341,7 @@
             "name": "Everdome",
             "symbol": "DOME",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/everdome.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/everdome.png"
         },
         {
             "chainId": 56,
@@ -349,7 +349,7 @@
             "name": "Ovr",
             "symbol": "OVR",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/ovr.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/ovr.png"
         },
         {
             "chainId": 56,
@@ -357,7 +357,7 @@
             "name": "MagicCraft",
             "symbol": "MCRT",
             "decimals": 9,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/magiccraft.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/magiccraft.png"
         },
         {
             "chainId": 56,
@@ -365,7 +365,7 @@
             "name": "Media Licensing",
             "symbol": "MLT",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/media-licensing-token.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/media-licensing-token.png"
         },
         {
             "chainId": 56,
@@ -373,7 +373,7 @@
             "name": "RFOX",
             "symbol": "RFOX",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/redfox-labs-2.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/redfox-labs-2.png"
         },
         {
             "chainId": 56,
@@ -381,7 +381,7 @@
             "name": "Ariva",
             "symbol": "ARV",
             "decimals": 8,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/ariva.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/ariva.png"
         },
         {
             "chainId": 56,
@@ -389,7 +389,7 @@
             "name": "Rainicorn",
             "symbol": "RAINI",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/rainicorn.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/rainicorn.png"
         },
         {
             "chainId": 56,
@@ -397,7 +397,7 @@
             "name": "vEmpire DDAO",
             "symbol": "VEMP",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/vempire-ddao.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/vempire-ddao.png"
         },
         {
             "chainId": 56,
@@ -405,7 +405,7 @@
             "name": "Torum",
             "symbol": "XTM",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/torum.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/torum.png"
         },
         {
             "chainId": 56,
@@ -413,7 +413,7 @@
             "name": "Sinverse",
             "symbol": "SIN",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/sin-city.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/sin-city.png"
         },
         {
             "chainId": 56,
@@ -421,7 +421,7 @@
             "name": "Binamon",
             "symbol": "BMON",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/binamon.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/binamon.png"
         },
         {
             "chainId": 56,
@@ -429,7 +429,7 @@
             "name": "Polkacity",
             "symbol": "POLC",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/polka-city.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/polka-city.png"
         },
         {
             "chainId": 56,
@@ -437,7 +437,7 @@
             "name": "DEEPSPACE",
             "symbol": "DPS",
             "decimals": 9,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/deepspace.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/deepspace.png"
         },
         {
             "chainId": 56,
@@ -445,7 +445,7 @@
             "name": "Dark Frontiers",
             "symbol": "DARK",
             "decimals": 8,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dark-frontiers.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dark-frontiers.png"
         },
         {
             "chainId": 56,
@@ -453,7 +453,7 @@
             "name": "Mist",
             "symbol": "MIST",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/mist.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/mist.png"
         },
         {
             "chainId": 56,
@@ -461,7 +461,7 @@
             "name": "Highstreet",
             "symbol": "HIGH",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/highstreet.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/highstreet.png"
         },
         {
             "chainId": 56,
@@ -469,7 +469,7 @@
             "name": "Dreams Quest",
             "symbol": "DREAMS",
             "decimals": 18,
-            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dreams-quest.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dreams-quest.png"
         }
     ],
     "version": {
