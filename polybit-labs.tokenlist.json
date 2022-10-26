@@ -13,7 +13,7 @@
             "name": "Uniswap",
             "symbol": "UNI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/uniswap.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/uniswap.png"
         },
         {
             "chainId": 56,
@@ -21,7 +21,7 @@
             "name": "Aave",
             "symbol": "AAVE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/aave.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/aave.png"
         },
         {
             "chainId": 56,
@@ -29,7 +29,7 @@
             "name": "PancakeSwap",
             "symbol": "CAKE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/pancakeswap.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/pancakeswap-token.png"
         },
         {
             "chainId": 56,
@@ -37,7 +37,7 @@
             "name": "Compound",
             "symbol": "COMP",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/compound.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/compound-governance-token.png"
         },
         {
             "chainId": 56,
@@ -45,7 +45,7 @@
             "name": "Sushi",
             "symbol": "SUSHI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/sushiswap.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/sushi.png"
         },
         {
             "chainId": 56,
@@ -53,7 +53,7 @@
             "name": "DAO Maker",
             "symbol": "DAO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/dao-maker.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dao-maker.png"
         },
         {
             "chainId": 56,
@@ -61,7 +61,7 @@
             "name": "Merit Circle",
             "symbol": "MC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/merit-circle.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/merit-circle.png"
         },
         {
             "chainId": 56,
@@ -69,7 +69,7 @@
             "name": "inSure DeFi",
             "symbol": "insure",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/insure-defi.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/insure.png"
         },
         {
             "chainId": 56,
@@ -77,7 +77,7 @@
             "name": "Mask Network",
             "symbol": "MASK",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/mask-network.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/mask-network.png"
         },
         {
             "chainId": 56,
@@ -85,7 +85,7 @@
             "name": "Alpaca Finance",
             "symbol": "ALPACA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/alpaca-finance.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/alpaca-finance.png"
         },
         {
             "chainId": 56,
@@ -93,7 +93,7 @@
             "name": "Harvest Finance",
             "symbol": "FARM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/harvest-finance.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/harvest-finance.png"
         },
         {
             "chainId": 56,
@@ -101,12 +101,44 @@
             "name": "Tranchess",
             "symbol": "CHESS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/tranchess.svg"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/tranchess.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xC0eFf7749b125444953ef89682201Fb8c6A917CD",
+            "name": "Horizon Protocol",
+            "symbol": "HZN",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/horizon-protocol.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379",
+            "name": "GROWTH DeFi",
+            "symbol": "XGRO",
+            "decimals": 18,
+            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/growth-defi.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+            "name": "Dai",
+            "symbol": "DAI",
+            "decimals": 18,
+            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/dai.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+            "name": "ChainLink",
+            "symbol": "LINK",
+            "decimals": 18,
+            "image": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/chainlink.png"
         }
     ],
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
