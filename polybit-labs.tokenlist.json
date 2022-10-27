@@ -317,7 +317,7 @@
             "name": "Radio Caca",
             "symbol": "RACA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/radio-caca.png.png"
+            "logoURI": "https://raw.githubusercontent.com/polybit-labs/token-list/main/assets/logos/radio-caca.png"
         },
         {
             "chainId": 56,
