@@ -216,7 +216,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xa184088a740c695E156F91f5cC086a06bb78b827.png"
         },
         {
-            "name": "Axie Infinity Shard",
+            "name": "Axie Infinity",
             "symbol": "AXS",
             "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
             "chainId": 56,
@@ -2554,7 +2554,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     }
 }
