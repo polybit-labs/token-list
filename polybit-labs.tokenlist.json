@@ -400,7 +400,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4131b87F74415190425ccD873048C708F8005823.png"
         },
         {
-            "name": "Bondly",
+            "name": "Forj",
             "symbol": "BONDLY",
             "address": "0x5D0158A5c3ddF47d4Ea4517d8DB0D76aA2e87563",
             "chainId": 56,
@@ -560,7 +560,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e.png"
         },
         {
-            "name": "CEEK",
+            "name": "CEEK VR",
             "symbol": "CEEK",
             "address": "0xe0F94Ac5462997D2BC57287Ac3a3aE4C31345D66",
             "chainId": 56,
@@ -976,7 +976,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x93D8d25E3C9A847a5Da79F79ecaC89461FEcA846.png"
         },
         {
-            "name": "Green Metaverse Token",
+            "name": "STEPN (GMT)",
             "symbol": "GMT",
             "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
             "chainId": 56,
@@ -1288,7 +1288,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x762539b45A1dCcE3D36d080F74d1AED37844b878.png"
         },
         {
-            "name": "ChainLink",
+            "name": "Chainlink",
             "symbol": "LINK",
             "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
             "chainId": 56,
