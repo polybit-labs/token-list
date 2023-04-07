@@ -1656,14 +1656,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xeBd49b26169e1b52c04cFd19FCf289405dF55F80.png"
         },
         {
-            "name": "pBTC",
-            "symbol": "pBTC",
-            "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C.png"
-        },
-        {
             "name": "PolyCrowns",
             "symbol": "pCWS",
             "address": "0xbcf39F0EDDa668C58371E519AF37CA705f2bFcbd",
