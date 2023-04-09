@@ -152,14 +152,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x37dfACfaeDA801437Ff648A1559d73f4C40aAcb7.png"
         },
         {
-            "name": "ESPL ARENA",
-            "symbol": "ARENA",
-            "address": "0xCfFD4D3B517b77BE32C76DA768634dE6C738889B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xCfFD4D3B517b77BE32C76DA768634dE6C738889B.png"
-        },
-        {
             "name": "ARPA",
             "symbol": "ARPA",
             "address": "0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
