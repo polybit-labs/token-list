@@ -32,14 +32,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xBc7d6B50616989655AfD682fb42743507003056D.png"
         },
         {
-            "name": "Cardano",
-            "symbol": "ADA",
-            "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
-        },
-        {
             "name": "AdEx Network",
             "symbol": "ADX",
             "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
@@ -54,14 +46,6 @@
             "chainId": 56,
             "decimals": 6,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xAC51066d7bEC65Dc4589368da368b212745d63E8.png"
-        },
-        {
-            "name": "AlpaToken",
-            "symbol": "ALPA",
-            "address": "0xc5E6689C9c8B02be7C49912Ef19e79cF24977f03",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xc5E6689C9c8B02be7C49912Ef19e79cF24977f03.png"
         },
         {
             "name": "Alpaca Finance",
@@ -96,28 +80,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png"
         },
         {
-            "name": "Ankr Staked BNB",
-            "symbol": "ankrBNB",
-            "address": "0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827.png"
-        },
-        {
             "name": "anyMTLX",
             "symbol": "anyMTLX",
             "address": "0x5921DEE8556c4593EeFCFad3CA5e2f618606483b",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5921DEE8556c4593EeFCFad3CA5e2f618606483b.png"
-        },
-        {
-            "name": "AgeOfGods",
-            "symbol": "AOG",
-            "address": "0x40C8225329Bd3e28A043B029E0D07a5344d2C27C",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x40C8225329Bd3e28A043B029E0D07a5344d2C27C.png"
         },
         {
             "name": "ApolloX",
@@ -176,60 +144,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0.png"
         },
         {
-            "name": "BabyCake",
-            "symbol": "BABYCAKE",
-            "address": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c.png"
-        },
-        {
             "name": "Bakery",
             "symbol": "BAKE",
             "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
-        },
-        {
-            "name": "Battle Hero",
-            "symbol": "BATH",
-            "address": "0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x0bc89aa98Ad94E6798Ec822d0814d934cCD0c0cE.png"
-        },
-        {
-            "name": "BitBook",
-            "symbol": "BBT",
-            "address": "0xD48474E7444727bF500a32D5AbE01943f3A59A64",
-            "chainId": 56,
-            "decimals": 8,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xD48474E7444727bF500a32D5AbE01943f3A59A64.png"
-        },
-        {
-            "name": "Bitcoin Cash",
-            "symbol": "BCH",
-            "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
-        },
-        {
-            "name": "Bomb Crypto",
-            "symbol": "BCOIN",
-            "address": "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x00e1656e45f18ec6747F5a8496Fd39B50b38396D.png"
-        },
-        {
-            "name": "bDollar",
-            "symbol": "BDO",
-            "address": "0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x190b589cf9Fb8DDEabBFeae36a813FFb2A702454.png"
         },
         {
             "name": "Bella Protocol",
@@ -254,14 +174,6 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28.png"
-        },
-        {
-            "name": "Beacon ETH",
-            "symbol": "BETH",
-            "address": "0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png"
         },
         {
             "name": "Beefy.finance",
@@ -296,22 +208,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xffEecbf8D7267757c2dc3d13D730E97E15BfdF7F.png"
         },
         {
-            "name": "BunnyPark",
-            "symbol": "BP",
-            "address": "0xACB8f52DC63BB752a51186D1c55868ADbFfEe9C1",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xACB8f52DC63BB752a51186D1c55868ADbFfEe9C1.png"
-        },
-        {
-            "name": "Berry",
-            "symbol": "BRY",
-            "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.png"
-        },
-        {
             "name": "BSCPad",
             "symbol": "BSCPAD",
             "address": "0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700",
@@ -336,36 +232,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
         },
         {
-            "name": "Binance Pegged Bitcoin",
-            "symbol": "BTCB",
-            "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
-        },
-        {
             "name": "Standard BTC Hashrate Token",
             "symbol": "BTCST",
             "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
             "chainId": 56,
             "decimals": 17,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x78650B139471520656b9E7aA7A5e9276814a38e9.png"
-        },
-        {
-            "name": "Bittorrent Old",
-            "symbol": "BTTOLD",
-            "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x8595F9dA7b868b1822194fAEd312235E43007b49.png"
-        },
-        {
-            "name": "Bunny",
-            "symbol": "BUNNY",
-            "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51.png"
         },
         {
             "name": "Burger Swap",
@@ -448,28 +320,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8.png"
         },
         {
-            "name": "Cyclone",
-            "symbol": "CYC",
-            "address": "0x810EE35443639348aDbbC467b33310d2AB43c168",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x810EE35443639348aDbbC467b33310d2AB43c168.png"
-        },
-        {
             "name": "Binance Pegged DAI",
             "symbol": "DAI",
             "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
-        },
-        {
-            "name": "Mines of Dalarnia",
-            "symbol": "DAR",
-            "address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
-            "chainId": 56,
-            "decimals": 6,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978.png"
         },
         {
             "name": "Deri",
@@ -488,28 +344,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x039cB485212f996A9DBb85A9a75d898F94d38dA6.png"
         },
         {
-            "name": "DefiDollar DAO",
-            "symbol": "DFD",
-            "address": "0x9899a98b222fCb2f3dbee7dF45d943093a4ff9ff",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x9899a98b222fCb2f3dbee7dF45d943093a4ff9ff.png"
-        },
-        {
             "name": "Decentral Games",
             "symbol": "DG",
             "address": "0x9Fdc3ae5c814b79dcA2556564047C5e7e5449C19",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x9Fdc3ae5c814b79dcA2556564047C5e7e5449C19.png"
-        },
-        {
-            "name": "Duelist King",
-            "symbol": "DKT",
-            "address": "0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7Ceb519718A80Dd78a8545AD8e7f401dE4f2faA7.png"
         },
         {
             "name": "Dodo",
@@ -520,60 +360,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2.png"
         },
         {
-            "name": "Dogecoin",
-            "symbol": "DOGE",
-            "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
-            "chainId": 56,
-            "decimals": 8,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
-        },
-        {
-            "name": "Polkadot",
-            "symbol": "DOT",
-            "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
-        },
-        {
-            "name": "Diviner Protocol",
-            "symbol": "DPT",
-            "address": "0xE69cAef10A488D7AF31Da46c89154d025546e990",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xE69cAef10A488D7AF31Da46c89154d025546e990.png"
-        },
-        {
-            "name": "Duet Governance",
-            "symbol": "DUET",
-            "address": "0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x95EE03e1e2C5c4877f9A298F1C0D6c98698FAB7B.png"
-        },
-        {
-            "name": "Elrond",
-            "symbol": "EGLD",
-            "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
-        },
-        {
             "name": "Dogelon Mars",
             "symbol": "ELON",
             "address": "0x7bd6FaBD64813c48545C9c0e312A0099d9be2540",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7bd6FaBD64813c48545C9c0e312A0099d9be2540.png"
-        },
-        {
-            "name": "EOS",
-            "symbol": "EOS",
-            "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
         },
         {
             "name": "Ellipsis",
@@ -584,68 +376,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xA7f552078dcC247C2684336020c03648500C6d9F.png"
         },
         {
-            "name": "Era",
-            "symbol": "ERA",
-            "address": "0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x6f9F0c4ad9Af7EbD61Ac5A1D4e0F2227F7B0E5f9.png"
-        },
-        {
             "name": "Ertha",
             "symbol": "ERTHA",
             "address": "0x62823659d09F9F9D2222058878f89437425eB261",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x62823659d09F9F9D2222058878f89437425eB261.png"
-        },
-        {
-            "name": "CryptoMines Eternal",
-            "symbol": "ETERNAL",
-            "address": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xD44FD09d74cd13838F137B590497595d6b3FEeA4.png"
-        },
-        {
-            "name": "Binance Pegged ETH",
-            "symbol": "ETH",
-            "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
-        },
-        {
-            "name": "Easy V2",
-            "symbol": "EZ",
-            "address": "0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5512014efa6Cd57764Fa743756F7a6Ce3358cC83.png"
-        },
-        {
-            "name": "Fight",
-            "symbol": "FIGHT",
-            "address": "0x4f39c3319188A723003670c3F9B9e7EF991E52F3",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4f39c3319188A723003670c3F9B9e7EF991E52F3.png"
-        },
-        {
-            "name": "Filecoin",
-            "symbol": "FIL",
-            "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153.png"
-        },
-        {
-            "name": "Defina Finance",
-            "symbol": "FINA",
-            "address": "0x426c72701833fdDBdFc06c944737C6031645c708",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x426c72701833fdDBdFc06c944737C6031645c708.png"
         },
         {
             "name": "Refinable",
@@ -662,14 +398,6 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
-        },
-        {
-            "name": "Formation Finance",
-            "symbol": "FORM",
-            "address": "0x25A528af62e56512A19ce8c3cAB427807c28CC19",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x25A528af62e56512A19ce8c3cAB427807c28CC19.png"
         },
         {
             "name": "Frontier",
@@ -704,36 +432,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5.png"
         },
         {
-            "name": "MetaGear",
-            "symbol": "GEAR",
-            "address": "0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xb4404DaB7C0eC48b428Cf37DeC7fb628bcC41B36.png"
-        },
-        {
-            "name": "GoldMiner",
-            "symbol": "GM",
-            "address": "0xe2604C9561D490624AA35e156e65e590eB749519",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xe2604C9561D490624AA35e156e65e590eB749519.png"
-        },
-        {
             "name": "GAMEE",
             "symbol": "GMEE",
             "address": "0x84e9a6F9D240FdD33801f7135908BfA16866939A",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x84e9a6F9D240FdD33801f7135908BfA16866939A.png"
-        },
-        {
-            "name": "Gamifi",
-            "symbol": "GMI",
-            "address": "0x93D8d25E3C9A847a5Da79F79ecaC89461FEcA846",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x93D8d25E3C9A847a5Da79F79ecaC89461FEcA846.png"
         },
         {
             "name": "STEPN (GMT)",
@@ -752,28 +456,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xF700D4c708C2be1463E355F337603183D20E0808.png"
         },
         {
-            "name": "Gourmet Galaxy",
-            "symbol": "GUM",
-            "address": "0xc53708664b99DF348dd27C3Ac0759d2DA9c40462",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462.png"
-        },
-        {
             "name": "Hacken",
             "symbol": "HAI",
             "address": "0xaA9E582e5751d703F85912903bacADdFed26484C",
             "chainId": 56,
             "decimals": 8,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xaA9E582e5751d703F85912903bacADdFed26484C.png"
-        },
-        {
-            "name": "HappyFans",
-            "symbol": "HAPPY",
-            "address": "0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xF5d8A096CcCb31b9D7bcE5afE812BE23e3D4690d.png"
         },
         {
             "name": "Hay Destablecoin",
@@ -784,28 +472,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5.png"
         },
         {
-            "name": "Helmet.insure",
-            "symbol": "Helmet",
-            "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8.png"
-        },
-        {
             "name": "MetaHero",
             "symbol": "HERO",
             "address": "0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xD40bEDb44C081D2935eebA6eF5a3c8A31A1bBE13.png"
-        },
-        {
-            "name": "StepHero",
-            "symbol": "HERO",
-            "address": "0xE8176d414560cFE1Bf82Fd73B986823B89E4F545",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xE8176d414560cFE1Bf82Fd73B986823B89E4F545.png"
         },
         {
             "name": "Hashflow",
@@ -816,14 +488,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x44Ec807ce2F4a6F2737A92e985f318d035883e47.png"
         },
         {
-            "name": "Highstreet",
-            "symbol": "HIGH",
-            "address": "0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5f4Bde007Dc06b867f86EBFE4802e34A1fFEEd63.png"
-        },
-        {
             "name": "Hook",
             "symbol": "HOOK",
             "address": "0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0",
@@ -832,28 +496,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0.png"
         },
         {
-            "name": "Chibi Dinos",
-            "symbol": "HOOP",
-            "address": "0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xF19cfb40B3774dF6Eed83169Ad5aB0Aaf6865F25.png"
-        },
-        {
             "name": "Hot Cross",
             "symbol": "HOTCROSS",
             "address": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6.png"
-        },
-        {
-            "name": "HeroesTD",
-            "symbol": "HTD",
-            "address": "0x5E2689412Fae5c29BD575fbe1d5C1CD1e0622A8f",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5E2689412Fae5c29BD575fbe1d5C1CD1e0622A8f.png"
         },
         {
             "name": "Horizon Protocol",
@@ -872,14 +520,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89.png"
         },
         {
-            "name": "Impossible Finance",
-            "symbol": "IF",
-            "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xB0e1fc65C1a741b4662B813eB787d369b8614Af1.png"
-        },
-        {
             "name": "Injective Protocol",
             "symbol": "INJ",
             "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
@@ -894,14 +534,6 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x3192CCDdf1CDcE4Ff055EbC80f3F0231b86A7E30.png"
-        },
-        {
-            "name": "IoTeX",
-            "symbol": "IOTX",
-            "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png"
         },
         {
             "name": "Juggernaut Finance",
@@ -920,14 +552,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
         },
         {
-            "name": "Kingdom Raids",
-            "symbol": "KRS",
-            "address": "0x37b53894e7429f794B56F22a32E1695567Ee9913",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x37b53894e7429f794B56F22a32E1695567Ee9913.png"
-        },
-        {
             "name": "Kattana",
             "symbol": "KTN",
             "address": "0xDAe6c2A48BFAA66b43815c5548b10800919c993E",
@@ -942,22 +566,6 @@
             "chainId": 56,
             "decimals": 8,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x77d547256A2cD95F32F67aE0313E450Ac200648d.png"
-        },
-        {
-            "name": "Lien",
-            "symbol": "LIEN",
-            "address": "0x5d684ADaf3FcFe9CFb5ceDe3abf02F0Cdd1012E3",
-            "chainId": 56,
-            "decimals": 8,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5d684ADaf3FcFe9CFb5ceDe3abf02F0Cdd1012E3.png"
-        },
-        {
-            "name": "Lightning",
-            "symbol": "LIGHT",
-            "address": "0x037838b556d9c9d654148a284682C55bB5f56eF4",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x037838b556d9c9d654148a284682C55bB5f56eF4.png"
         },
         {
             "name": "Linear Finance",
@@ -976,14 +584,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
         },
         {
-            "name": "Lympo Market",
-            "symbol": "LMT",
-            "address": "0x9617857E191354dbEA0b714d78Bc59e57C411087",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x9617857E191354dbEA0b714d78Bc59e57C411087.png"
-        },
-        {
             "name": "League Of Ancients",
             "symbol": "LOA",
             "address": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50",
@@ -992,28 +592,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50.png"
         },
         {
-            "name": "Litecoin",
-            "symbol": "LTC",
-            "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
-        },
-        {
             "name": "LTO Network",
             "symbol": "LTO",
             "address": "0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x857B222Fc79e1cBBf8Ca5f78CB133d1b7CF34BBd.png"
-        },
-        {
-            "name": "lUSD",
-            "symbol": "lUSD",
-            "address": "0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e.png"
         },
         {
             "name": "Unmarshal",
@@ -1056,36 +640,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5fE80d2CD054645b9419657d3d10d26391780A7B.png"
         },
         {
-            "name": "MacaronSwap",
-            "symbol": "MCRN",
-            "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xacb2d47827C9813AE26De80965845D80935afd0B.png"
-        },
-        {
             "name": "Metis",
             "symbol": "Metis",
             "address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xe552Fb52a4F19e44ef5A967632DBc320B0820639.png"
-        },
-        {
-            "name": "Magpie",
-            "symbol": "MGP",
-            "address": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa.png"
-        },
-        {
-            "name": "MetaShooter",
-            "symbol": "MHUNT",
-            "address": "0x2C717059b366714d267039aF8F59125CAdce6D8c",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x2C717059b366714d267039aF8F59125CAdce6D8c.png"
         },
         {
             "name": "Mirror Finance",
@@ -1176,46 +736,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xCD40F2670CF58720b694968698A5514e924F742d.png"
         },
         {
-            "name": "Oin Finance",
-            "symbol": "OIN",
-            "address": "0x658E64FFcF40D240A43D52CA9342140316Ae44fA",
-            "chainId": 56,
-            "decimals": 8,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x658E64FFcF40D240A43D52CA9342140316Ae44fA.png"
-        },
-        {
-            "name": "OpenLeverage",
-            "symbol": "OLE",
-            "address": "0xa865197A84E780957422237B5D152772654341F3",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xa865197A84E780957422237B5D152772654341F3.png"
-        },
-        {
-            "name": "Harmony One",
-            "symbol": "ONE",
-            "address": "0x03fF0ff224f904be3118461335064bB48Df47938",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x03fF0ff224f904be3118461335064bB48Df47938.png"
-        },
-        {
-            "name": "BigOne",
-            "symbol": "ONE",
-            "address": "0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0.png"
-        },
-        {
-            "name": "Ontology",
-            "symbol": "ONT",
-            "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
-        },
-        {
             "name": "The Orbs Network",
             "symbol": "ORBS",
             "address": "0xeBd49b26169e1b52c04cFd19FCf289405dF55F80",
@@ -1248,14 +768,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x734548a9e43d2D564600b1B2ed5bE9C2b911c6aB.png"
         },
         {
-            "name": "Perlin X",
-            "symbol": "PERL",
-            "address": "0x0F9E4D49f25de22c2202aF916B681FBB3790497B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x0F9E4D49f25de22c2202aF916B681FBB3790497B.png"
-        },
-        {
             "name": "PearDAO",
             "symbol": "PEX",
             "address": "0x6a0b66710567b6beb81A71F7e9466450a91a384b",
@@ -1278,46 +790,6 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xdaacB0Ab6Fb34d24E8a67BfA14BF4D95D4C7aF92.png"
-        },
-        {
-            "name": "pTokens OPEN",
-            "symbol": "pOPEN",
-            "address": "0xaBaE871B7E3b67aEeC6B46AE9FE1A91660AadAC5",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xaBaE871B7E3b67aEeC6B46AE9FE1A91660AadAC5.png"
-        },
-        {
-            "name": "FC Porto Fan",
-            "symbol": "PORTO",
-            "address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
-            "chainId": 56,
-            "decimals": 8,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x49f2145d6366099e13B10FbF80646C0F377eE7f6.png"
-        },
-        {
-            "name": "Moonpot",
-            "symbol": "POTS",
-            "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x3Fcca8648651E5b974DD6d3e50F61567779772A8.png"
-        },
-        {
-            "name": "PRIMAL",
-            "symbol": "PRIMAL",
-            "address": "0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xCb5327Ed4649548e0d73E70b633cdfd99aF6Da87.png"
-        },
-        {
-            "name": "Parallel",
-            "symbol": "PRL",
-            "address": "0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xd07e82440A395f3F3551b42dA9210CD1Ef4f8B24.png"
         },
         {
             "name": "Prometeus",
@@ -1344,36 +816,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4C882ec256823eE773B25b414d36F92ef58a7c0C.png"
         },
         {
-            "name": "Qubit",
-            "symbol": "QBT",
-            "address": "0x17B7163cf1Dbd286E262ddc68b553D899B93f526",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x17B7163cf1Dbd286E262ddc68b553D899B93f526.png"
-        },
-        {
-            "name": "QIAN second generation dollar",
-            "symbol": "QSD",
-            "address": "0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x07AaA29E63FFEB2EBf59B33eE61437E1a91A3bb2.png"
-        },
-        {
             "name": "Quidd",
             "symbol": "QUIDD",
             "address": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed.png"
-        },
-        {
-            "name": "Rabbit Finance",
-            "symbol": "RABBIT",
-            "address": "0x95a1199EBA84ac5f19546519e287d43D2F0E1b41",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x95a1199EBA84ac5f19546519e287d43D2F0E1b41.png"
         },
         {
             "name": "Radio Caca V2",
@@ -1432,14 +880,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xc2098a8938119A52B1F7661893c0153A6CB116d5.png"
         },
         {
-            "name": "rUSD",
-            "symbol": "rUSD",
-            "address": "0x07663837218A003e66310a01596af4bf4e44623D",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x07663837218A003e66310a01596af4bf4e44623D.png"
-        },
-        {
             "name": "FC Santos Fan",
             "symbol": "SANTOS",
             "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
@@ -1472,14 +912,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x477bC8d23c634C154061869478bce96BE6045D12.png"
         },
         {
-            "name": "Sheesha Finance",
-            "symbol": "SHEESHA",
-            "address": "0x232FB065D9d24c34708eeDbF03724f2e95ABE768",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x232FB065D9d24c34708eeDbF03724f2e95ABE768.png"
-        },
-        {
             "name": "CryptoBlades Skill",
             "symbol": "SKILL",
             "address": "0x154A9F9cbd3449AD22FDaE23044319D6eF2a1Fab",
@@ -1494,14 +926,6 @@
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x3910db0600eA925F63C36DdB1351aB6E2c6eb102.png"
-        },
-        {
-            "name": "Spintop",
-            "symbol": "SPIN",
-            "address": "0x6AA217312960A21aDbde1478DC8cBCf828110A67",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x6AA217312960A21aDbde1478DC8cBCf828110A67.png"
         },
         {
             "name": "Splintershards",
@@ -1520,36 +944,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x724A32dFFF9769A0a0e1F0515c0012d1fB14c3bd.png"
         },
         {
-            "name": "Staked BNB",
-            "symbol": "stkBNB",
-            "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png"
-        },
-        {
             "name": "Sushi",
             "symbol": "SUSHI",
             "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.png"
-        },
-        {
-            "name": "Swampy",
-            "symbol": "SWAMP",
-            "address": "0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d.png"
-        },
-        {
-            "name": "SWGToken",
-            "symbol": "SWG",
-            "address": "0xe792f64C582698b8572AAF765bDC426AC3aEfb6B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xe792f64C582698b8572AAF765bDC426AC3aEfb6B.png"
         },
         {
             "name": "Swingby",
@@ -1576,38 +976,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A.png"
         },
         {
-            "name": "Tau DOGE",
-            "symbol": "tDOGE",
-            "address": "0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A",
-            "chainId": 56,
-            "decimals": 8,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A.png"
-        },
-        {
-            "name": "TemplarDAO",
-            "symbol": "TEM",
-            "address": "0x19e6BfC1A6e4B042Fb20531244D47E252445df01",
-            "chainId": 56,
-            "decimals": 9,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x19e6BfC1A6e4B042Fb20531244D47E252445df01.png"
-        },
-        {
-            "name": "Thetan Gem",
-            "symbol": "THG",
-            "address": "0x9fD87aEfe02441B123c3c32466cD9dB4c578618f",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x9fD87aEfe02441B123c3c32466cD9dB4c578618f.png"
-        },
-        {
-            "name": "Tiny Coin",
-            "symbol": "TINC",
-            "address": "0x05aD6E30A855BE07AfA57e08a4f30d00810a402e",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x05aD6E30A855BE07AfA57e08a4f30d00810a402e.png"
-        },
-        {
             "name": "TokoCrypto",
             "symbol": "TKO",
             "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
@@ -1624,44 +992,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x2222227E22102Fe3322098e4CBfE18cFebD57c95.png"
         },
         {
-            "name": "Telos",
-            "symbol": "TLOS",
-            "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xb6C53431608E626AC81a9776ac3e999c5556717c.png"
-        },
-        {
             "name": "TokenPocket",
             "symbol": "TPT",
             "address": "0xECa41281c24451168a37211F0bc2b8645AF45092",
             "chainId": 56,
             "decimals": 4,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xECa41281c24451168a37211F0bc2b8645AF45092.png"
-        },
-        {
-            "name": "Unitrade",
-            "symbol": "TRADE",
-            "address": "0x7af173F350D916358AF3e218Bdf2178494Beb748",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7af173F350D916358AF3e218Bdf2178494Beb748.png"
-        },
-        {
-            "name": "Trivian",
-            "symbol": "TRIVIA",
-            "address": "0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05",
-            "chainId": 56,
-            "decimals": 3,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xb465f3cb6Aba6eE375E12918387DE1eaC2301B05.png"
-        },
-        {
-            "name": "Tron",
-            "symbol": "TRX",
-            "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png"
         },
         {
             "name": "True USD",
@@ -1720,14 +1056,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x55d398326f99059fF775485246999027B3197955.png"
         },
         {
-            "name": "UST",
-            "symbol": "UST",
-            "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x23396cF899Ca06c4472205fC903bDB4de249D6fC.png"
-        },
-        {
             "name": "VAI Stablecoin",
             "symbol": "VAI",
             "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
@@ -1736,44 +1064,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7.png"
         },
         {
-            "name": "Venus Reward Token",
-            "symbol": "VRT",
-            "address": "0x5F84ce30DC3cF7909101C69086c50De191895883",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x5F84ce30DC3cF7909101C69086c50De191895883.png"
-        },
-        {
-            "name": "Yieldwatch",
-            "symbol": "WATCH",
-            "address": "0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7A9f28EB62C791422Aa23CeAE1dA9C847cBeC9b0.png"
-        },
-        {
-            "name": "WBNB",
-            "symbol": "WBNB",
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
-        },
-        {
             "name": "WaultSwap",
             "symbol": "WEX",
             "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90.png"
-        },
-        {
-            "name": "WINk",
-            "symbol": "WIN",
-            "address": "0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99.png"
         },
         {
             "name": "Wombex",
@@ -1816,28 +1112,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xA58950F05FeA2277d2608748412bf9F802eA4901.png"
         },
         {
-            "name": "Wizardia Coin",
-            "symbol": "WZRD",
-            "address": "0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xFa40d8FC324bcdD6Bbae0e086De886c571C225d4.png"
-        },
-        {
             "name": "Chain",
             "symbol": "XCN",
             "address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b.png"
-        },
-        {
-            "name": "XCarnival",
-            "symbol": "XCV",
-            "address": "0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4be63a9b26EE89b9a3a13fd0aA1D0b2427C135f8.png"
         },
         {
             "name": "Exeedme",
@@ -1856,14 +1136,6 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x4a080377f83D669D7bB83B3184a8A5E61B500608.png"
         },
         {
-            "name": "xMARK",
-            "symbol": "xMARK",
-            "address": "0x26A5dFab467d4f58fB266648CAe769503CEC9580",
-            "chainId": 56,
-            "decimals": 9,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x26A5dFab467d4f58fB266648CAe769503CEC9580.png"
-        },
-        {
             "name": "Mars Ecosystem",
             "symbol": "XMS",
             "address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
@@ -1872,28 +1144,12 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x7859B01BbF675d67Da8cD128a50D155cd881B576.png"
         },
         {
-            "name": "XRP",
-            "symbol": "XRP",
-            "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
-        },
-        {
             "name": "Venus",
             "symbol": "XVS",
             "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
             "chainId": 56,
             "decimals": 18,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
-        },
-        {
-            "name": "X World Games",
-            "symbol": "XWG",
-            "address": "0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc.png"
         },
         {
             "name": "YEL",
@@ -1918,19 +1174,11 @@
             "chainId": 56,
             "decimals": 12,
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
-        },
-        {
-            "name": "ZOO Crypto World",
-            "symbol": "ZOO",
-            "address": "0x1D229B958D5DDFca92146585a8711aECbE56F095",
-            "chainId": 56,
-            "decimals": 18,
-            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0x1D229B958D5DDFca92146585a8711aECbE56F095.png"
         }
     ],
     "version": {
         "major": 1,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     }
 }
