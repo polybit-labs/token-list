@@ -32,7 +32,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xBc7d6B50616989655AfD682fb42743507003056D.png"
         },
         {
-            "name": "AdEx Network",
+            "name": "Ambire AdEx",
             "symbol": "ADX",
             "address": "0x6bfF4Fb161347ad7de4A625AE5aa3A1CA7077819",
             "chainId": 56,
@@ -1178,7 +1178,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 9,
+        "minor": 10,
         "patch": 0
     }
 }
