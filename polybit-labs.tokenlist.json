@@ -280,7 +280,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE.png"
         },
         {
-            "name": "CO",
+            "name": "Corite",
             "symbol": "CO",
             "address": "0x936B6659Ad0C1b244Ba8Efe639092acae30dc8d6",
             "chainId": 56,
@@ -1088,7 +1088,7 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xA58950F05FeA2277d2608748412bf9F802eA4901.png"
         },
         {
-            "name": "Chain",
+            "name": "Onyxcoin",
             "symbol": "XCN",
             "address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
             "chainId": 56,
