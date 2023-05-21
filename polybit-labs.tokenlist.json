@@ -1048,6 +1048,14 @@
             "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90.png"
         },
         {
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "chainId": 56,
+            "decimals": 18,
+            "logoURI": "https://polybit-finance.s3.ap-southeast-1.amazonaws.com/assets/tokens/images/56/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+        },
+        {
             "name": "Wombex",
             "symbol": "WMX",
             "address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
@@ -1154,7 +1162,7 @@
     ],
     "version": {
         "major": 1,
-        "minor": 11,
+        "minor": 12,
         "patch": 0
     }
 }
